@@ -22,6 +22,6 @@ javac md2html/Md2Html.java
 ```bash
 java md2html.Md2Html input.md output.html
 ```
-input.md — your Markdown file
+  input.md — your Markdown file
 
-output.html — the resulting HTML
+  output.html — the resulting HTML
