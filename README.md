@@ -23,4 +23,5 @@ javac md2html/Md2Html.java
 java md2html.Md2Html input.md output.html
 ```
 input.md — your Markdown file
+
 output.html — the resulting HTML
